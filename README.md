@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="ASCII portrait of AkhilBabu94" src="ascii_portrait.svg" width="100%" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
